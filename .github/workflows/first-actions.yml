@@ -2,7 +2,7 @@
 
 name: First Workflow
 # Controls when the workflow will run
-on:workflow-dispatch
+on:workflow_dispatch
 
 jobs:
   first-job:
